@@ -1,0 +1,2572 @@
+{
+  "programme": {
+    "transmission_id": 994,
+    "date": "2021-05-05",
+    "channel": {
+      "webmedia_channel_id": 196,
+      "name": "Rede Globo"
+    },
+    "entries": [
+      {
+        "webmedia_title_id": null,
+        "start_time": 1620198000,
+        "end_time": 1620205200,
+        "human_start_time": "07:00:00+00:00",
+        "human_end_time": "09:00:00+00:00",
+        "duration_in_minutes": 120,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "Hora Um",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "ResumoImprensa": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9257.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 120,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/hora1/"
+        },
+        "composite": null,
+        "program": {
+          "id": 1980,
+          "name": "Hora Um",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Hora Um",
+          "synopsis": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "9QtyG5nMX8",
+        "start_time": 1620205200,
+        "end_time": 1620214200,
+        "human_start_time": "09:00:00+00:00",
+        "human_end_time": "11:30:00+00:00",
+        "duration_in_minutes": 150,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": "As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Bom Dia Rio",
+          "TituloPortugues": "Bom Dia Rio",
+          "Classe": null,
+          "Programa": "Bom Dia Rio",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.",
+            "ResumoImprensa": "As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/605.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9238.JPG",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/604.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 150,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 701,
+          "name": "Bom Dia Rio",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 811
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Bom Dia Rio",
+          "synopsis": "As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "HMmTps9vSY",
+        "start_time": 1620214200,
+        "end_time": 1620217800,
+        "human_start_time": "11:30:00+00:00",
+        "human_end_time": "12:30:00+00:00",
+        "duration_in_minutes": 60,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Bom Dia Brasil",
+          "TituloPortugues": "Bom Dia Brasil",
+          "Classe": null,
+          "Programa": "Bom Dia Brasil",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.",
+            "ResumoImprensa": "O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9262.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 60,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/bom-dia-brasil/"
+        },
+        "composite": null,
+        "program": {
+          "id": 699,
+          "name": "Bom Dia Brasil",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 810
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Bom Dia Brasil",
+          "synopsis": "O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "n9Vq6SMvsm",
+        "start_time": 1620217800,
+        "end_time": 1620222300,
+        "human_start_time": "12:30:00+00:00",
+        "human_end_time": "13:45:00+00:00",
+        "duration_in_minutes": 75,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Mais Você",
+          "TituloPortugues": "Mais Você",
+          "Classe": null,
+          "Programa": "Mais Você",
+          "Complemento": "MAIS VOCÊ",
+          "Apresenta": null,
+          "Capitulo": "5304",
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Vivi de Marco",
+          "AtorPrincipal": null,
+          "Elenco": "Ana Maria Braga",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Variedade"
+          },
+          "Subgenero": {
+            "Descricao": "Feminino"
+          },
+          "Classificacao": {
+            "Idade": "Livre",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+            "ResumoImprensa": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10808.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 75,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": "https://gshow.globo.com/programas/mais-voce/"
+        },
+        "composite": null,
+        "program": {
+          "id": 84,
+          "name": "Mais Você",
+          "synopsis": null,
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 2533
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Mais Você",
+          "synopsis": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "FzdMkLMYfg",
+        "start_time": 1620222300,
+        "end_time": 1620226800,
+        "human_start_time": "13:45:00+00:00",
+        "human_end_time": "15:00:00+00:00",
+        "duration_in_minutes": 75,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Encontro com Fátima Bernardes",
+          "TituloPortugues": "Encontro com Fátima Bernardes",
+          "Classe": null,
+          "Programa": "ENCONTRO",
+          "Complemento": "Encontro com Fátima Bernardes",
+          "Apresenta": null,
+          "Capitulo": "2273",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Fabrício Mamberti; Mario Marcio Bandarra",
+          "AtorPrincipal": null,
+          "Elenco": "Fátima Bernardes",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Variedade"
+          },
+          "Subgenero": {
+            "Descricao": "Auditório"
+          },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E12",
+              "Descricao": "Violência"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+            "ResumoImprensa": "A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9236.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 75,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": "http://gshow.globo.com/programas/encontro-com-fatima-bernardes/"
+        },
+        "composite": null,
+        "program": {
+          "id": 1047,
+          "name": "Encontro com Fátima Bernardes",
+          "synopsis": null,
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 5885
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Encontro com Fátima Bernardes",
+          "synopsis": "Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "hcSthQ56JW",
+        "start_time": 1620226800,
+        "end_time": 1620230400,
+        "human_start_time": "15:00:00+00:00",
+        "human_end_time": "16:00:00+00:00",
+        "duration_in_minutes": 60,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": "O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "RJ TV - 1ª Edição",
+          "TituloPortugues": "RJ TV - 1ª Edição",
+          "Classe": null,
+          "Programa": "RJ1",
+          "Complemento": "RJ1",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.",
+            "ResumoImprensa": "O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": "http://g1.globo.com/",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4123.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9245.JPG",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/608.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 60,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 38,
+          "name": "RJ1",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 820
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "RJ1",
+          "synopsis": "O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "HzHGwGKjvW",
+        "start_time": 1620230400,
+        "end_time": 1620231900,
+        "human_start_time": "16:00:00+00:00",
+        "human_end_time": "16:25:00+00:00",
+        "duration_in_minutes": 25,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": "As notícias do Esporte.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Globo Esporte",
+          "TituloPortugues": "Globo Esporte",
+          "Classe": null,
+          "Programa": "Globo Esporte",
+          "Complemento": "Globo Esporte",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Esporte"
+          },
+          "Subgenero": {
+            "Descricao": "Outros"
+          },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "O Globo Esporte atualiza o noticiário esportivo do dia.",
+            "ResumoImprensa": "O Globo Esporte atualiza o noticiário esportivo do dia.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/873.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 25,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 2357,
+          "name": "Globo Esporte",
+          "synopsis": null,
+          "category": "Esporte",
+          "parental_guide": null,
+          "webmedia_program_id": 815
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Globo Esporte",
+          "synopsis": "As notícias do Esporte.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "KLqhpkkZ5d",
+        "start_time": 1620231900,
+        "end_time": 1620237600,
+        "human_start_time": "16:25:00+00:00",
+        "human_end_time": "18:00:00+00:00",
+        "duration_in_minutes": 95,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Jornal Hoje",
+          "TituloPortugues": "Jornal Hoje",
+          "Classe": null,
+          "Programa": "Jornal Hoje",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+            "ResumoImprensa": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 95,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "https://g1.globo.com/jornal-hoje/"
+        },
+        "composite": null,
+        "program": {
+          "id": 41,
+          "name": "Jornal Hoje",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 818
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Jornal Hoje",
+          "synopsis": "Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": null,
+        "start_time": 1620237600,
+        "end_time": 1620244200,
+        "human_start_time": "18:00:00+00:00",
+        "human_end_time": "19:50:00+00:00",
+        "duration_in_minutes": 110,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Essa tradicional sessão de filmes traz dramas, romances, aventuras e animações às tardes da Globo.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "X-Men: First Class",
+          "TituloPortugues": "X-Men: Primeira Classe",
+          "Classe": "Ação",
+          "Programa": "Sessão da Tarde",
+          "Complemento": "X-Men: primeira classe",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Americana/Inglesa",
+          "Ano": 2011,
+          "Video": "HD",
+          "Diretor": "Matthew Vaughn",
+          "AtorPrincipal": null,
+          "Elenco": "James McAvoy, Michael Fassbender, Rose Byrne, Jennifer Lawrence, January Jones, Laurence Belcher, Bill Milner, Kevin Bacon",
+          "Dubladores": "Charles Xavier: Yuri Chesman/ Erik Lehnsherr E Magneto: Alexandre Marconato/ Sebastian Shaw: Nestor Chiesse/ Moira Mactaggert: Tatiane Keplmair/ Raven E Mística: Priscilla Concepcion/ Homem De Preto: Armando Tiraboschi/ Azazel: Felipe Grinnan/ Angel Salvadore: Jussara Marques/ Emma Frost: Letícia Quinto/ Hank Mccoy E Fera: Vágner Fagundes/ Sean Cassidy E Banshee: Raphael Ferreira/ Alex Summers E Destrutor: Robson Kumode/ Armando Muñoz E Darwin: Hermes Baroli/ Chefe Warden: Marco Antônio Abreu/ Levene: César Marchetti",
+          "Genero": {
+            "Descricao": "Filme"
+          },
+          "Subgenero": {
+            "Descricao": "Filme"
+          },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E12",
+              "Descricao": "Violência"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Antes de se tornar o Professor X, Charles Xavier conhece Erik Lehnsherr, o Magneto. Eles se tornam bons amigos e começam a desenvolver os seus poderes.",
+            "ResumoImprensa": "Na década de 1960, antes de se tornar o Professor X, Charles Xavier conhece Erik Lehnsherr, filho de judeus assassinados na 2ª Guerra Mundial, que viria a se chamar Magneto. Eles se tornam bons amigos e começam a desenvolver os seus poderes, ao lado de Raven e de outros mutantes. Charles e Erik unem forças para impedir uma nova Guerra Mundial, mas logo descobrem diferenças irreconciliáveis e seguem caminhos distintos. Filme de origem dos personagens da franquia X-Men. ",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": {
+            "Audio": [
+              {
+                "Tipo": "AudioDescriptor"
+              }
+            ]
+          },
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/307.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 110,
+          "Tipo": "Filme",
+          "ClosedCaption": true,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 23,
+          "name": "Sessão da Tarde - X-Men: Primeira Classe",
+          "synopsis": null,
+          "category": "Filme",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Sessão da Tarde - X-Men: Primeira Classe",
+          "synopsis": "Essa tradicional sessão de filmes traz dramas, romances, aventuras e animações às tardes da Globo.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": null,
+        "start_time": 1620244200,
+        "end_time": 1620248100,
+        "human_start_time": "19:50:00+00:00",
+        "human_end_time": "20:55:00+00:00",
+        "duration_in_minutes": 65,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Ti Ti Ti",
+          "TituloPortugues": "Ti Ti Ti",
+          "Classe": null,
+          "Programa": "Vale a Pena Ver de Novo",
+          "Complemento": "Ti Ti Ti",
+          "Apresenta": null,
+          "Capitulo": "28",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2010,
+          "Video": "HD",
+          "Diretor": "Jorge Fernando",
+          "AtorPrincipal": null,
+          "Elenco": "Alexandre Borges, Murilo Benício, Caio Castro, Isis Valverde, Malu Mader, Nicette Bruno, Juliana Paiva, Tato Gabus Mendes",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Novela"
+          },
+          "Subgenero": {
+            "Descricao": "Novela"
+          },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": true,
+            "Drogas": true,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E5",
+              "Descricao": "Drogas Lícitas"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Edgar diz a Luisa que esta em dúvida sobre casar com Camila.  ",
+            "ResumoImprensa": "Edgar diz a Luisa que esta em dúvida sobre casar com Camila.  ",
+            "Destaque": "Edgar está em dúvida"
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10931.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 65,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 5302,
+          "name": "Vale a Pena Ver de Novo - Ti Ti Ti",
+          "synopsis": null,
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Vale a Pena Ver de Novo - Ti Ti Ti",
+          "synopsis": "A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": null,
+        "start_time": 1620248100,
+        "end_time": 1620249900,
+        "human_start_time": "20:55:00+00:00",
+        "human_end_time": "21:25:00+00:00",
+        "duration_in_minutes": 30,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Malhação - Sonhos",
+          "TituloPortugues": "Malhação - Sonhos",
+          "Classe": null,
+          "Programa": "Malhação - Sonhos",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": "73",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2014,
+          "Video": "HD",
+          "Diretor": "direção de núcleo de José Alvarenga Jr. e direção geral de Luiz Henrique Rios,",
+          "AtorPrincipal": null,
+          "Elenco": "Rafael Vitti, Isabella Santoni, Arthur Aguiar, Bruna Hamú, Eriberto Leão, Emanuelle Araújo, Leo Jaime",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Novela"
+          },
+          "Subgenero": {
+            "Descricao": "Novela"
+          },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": true,
+            "Drogas": false,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E12",
+              "Descricao": "Violência"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Gael acaba com encontro secreto de Karina e Pedro no ringue",
+            "ResumoImprensa": "Gael acaba com encontro secreto de Karina e Pedro no ringue",
+            "Destaque": "Gael marcando em cima"
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/malhacao/sonhos-edicao-especial/vem-por-ai/noticia/malhacao-sonhos-gael-acaba-com-encontro-secreto-de-karina-e-pedro-no-ringue.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11277.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10640.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 30,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 3347,
+          "name": "Malhação - Sonhos",
+          "synopsis": null,
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Malhação - Sonhos",
+          "synopsis": "Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "rtpWGDjhCt",
+        "start_time": 1620249900,
+        "end_time": 1620252600,
+        "human_start_time": "21:25:00+00:00",
+        "human_end_time": "22:10:00+00:00",
+        "duration_in_minutes": 45,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "A história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "A Vida da Gente",
+          "TituloPortugues": "A Vida da Gente",
+          "Classe": null,
+          "Programa": "Novela I",
+          "Complemento": "A Vida da Gente",
+          "Apresenta": null,
+          "Capitulo": "57",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2011,
+          "Video": "HD",
+          "Diretor": "Jayme Monjardim",
+          "AtorPrincipal": null,
+          "Elenco": "Nicette Bruno, Fernanda Vasconcellos, Marjorie Estiano, Rafael Cardoso, Ana Beatriz Nogueira, Regiane Alves, Gisele Froes, Maria Eduarda de Carvalho, Malu Galli, Angelo Antonio, Stenio Garcia, Alice Wegmann, Julia Almeida, Sthefany Brito, Leona Cavalli",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Novela"
+          },
+          "Subgenero": {
+            "Descricao": "Novela"
+          },
+          "Classificacao": {
+            "Idade": "10",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E11",
+              "Descricao": "Temas Sensíveis"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Ana fica chocada ao saber que Manuela está com Rodrigo",
+            "ResumoImprensa": "Ana fica chocada ao saber que Manuela está com Rodrigo",
+            "Destaque": "Ana descobre sobre Manu e Rodrigo"
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/a-vida-da-gente/noticia/a-vida-da-gente-ana-fica-chocada-ao-saber-que-manuela-esta-com-rodrigo.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11278.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10833.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 45,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 4243,
+          "name": "A Vida da Gente",
+          "synopsis": null,
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": 5426
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "A Vida da Gente",
+          "synopsis": "A história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "x5SwXtgSZn",
+        "start_time": 1620252600,
+        "end_time": 1620254400,
+        "human_start_time": "22:10:00+00:00",
+        "human_end_time": "22:40:00+00:00",
+        "duration_in_minutes": 30,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "true",
+          "DescricaoPrograma": "Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": null,
+          "TituloPortugues": null,
+          "Classe": null,
+          "Programa": "RJ2",
+          "Complemento": "RJ2",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2020,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.",
+            "ResumoImprensa": "Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.",
+            "Destaque": "Telejornal local."
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4118.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9248.JPG",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9573.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 30,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 47,
+          "name": "RJ2",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 4388
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "RJ2",
+          "synopsis": "Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "FYST6Zg8kb",
+        "start_time": 1620254400,
+        "end_time": 1620257400,
+        "human_start_time": "22:40:00+00:00",
+        "human_end_time": "23:30:00+00:00",
+        "duration_in_minutes": 50,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Salve-se Quem Puder",
+          "TituloPortugues": "Salve-se Quem Puder",
+          "Classe": null,
+          "Programa": "Novela II",
+          "Complemento": "Salve-se Quem Puder",
+          "Apresenta": null,
+          "Capitulo": "39",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2020,
+          "Video": "HD",
+          "Diretor": "Fred Mayrink ",
+          "AtorPrincipal": null,
+          "Elenco": "Deborah Secco, Juliana Paiva, Vitória Strada, Flavia Alessandra, Rafael Cardoso, Thiago Fragoso, João Baldasserini, Grace Gianoukas, Bruno Ferrari, Felipe Simas, Murilo Rosa, Otavio Augusto",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Novela"
+          },
+          "Subgenero": {
+            "Descricao": "Novela"
+          },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E5",
+              "Descricao": "Drogas Lícitas"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Helena marca encontro após fazer ligação misteriosa",
+            "ResumoImprensa": "Helena marca encontro após fazer ligação misteriosa",
+            "Destaque": "Helena cheia de mistérios"
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/salve-se-quem-puder/vem-por-ai/noticia/salve-se-quem-puder-helena-marca-encontro-apos-fazer-ligacao-misteriosa.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11279.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7987.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 50,
+          "Tipo": "Novela",
+          "ClosedCaption": true,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 4123,
+          "name": "Salve-se Quem Puder",
+          "synopsis": null,
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": 11974
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Salve-se Quem Puder",
+          "synopsis": "A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "MyCrVrr6gW",
+        "start_time": 1620257400,
+        "end_time": 1620261600,
+        "human_start_time": "23:30:00+00:00",
+        "human_end_time": "00:40:00+00:00",
+        "duration_in_minutes": 70,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Jornal Nacional",
+          "TituloPortugues": "Jornal Nacional",
+          "Classe": null,
+          "Programa": "Jornal Nacional",
+          "Complemento": "JORNAL NACIONAL",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. ",
+            "ResumoImprensa": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. ",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "http://g1.globo.com/jornal-nacional/",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9234.JPG",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 70,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 49,
+          "name": "Jornal Nacional",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 819
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Jornal Nacional",
+          "synopsis": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "G7r62tG5fw",
+        "start_time": 1620261600,
+        "end_time": 1620265500,
+        "human_start_time": "00:40:00+00:00",
+        "human_end_time": "01:45:00+00:00",
+        "duration_in_minutes": 65,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "‘Império’ traz a história de José Alfredo, o comendador. Um homem pobre que fez fortuna com pedras preciosas e tornou-se o dono de uma rede de joalherias.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": false
+          },
+          "TituloOriginal": "Império",
+          "TituloPortugues": "Império",
+          "Classe": null,
+          "Programa": "NOVELA III",
+          "Complemento": "Império",
+          "Apresenta": null,
+          "Capitulo": "21",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasileira",
+          "Ano": 2014,
+          "Video": "HD",
+          "Diretor": " Rogério Gomes",
+          "AtorPrincipal": null,
+          "Elenco": "Alexandre Nero, Lilia Cabral, Mariana Ruy Barbosa, Marjorie Estiano, Drica Moraes, Caio Blat, Andreia Horta, Daniel Rocha, Leandra Leal, Rafael Cardoso, Paulo Betti, Zezé Polessa, Nanda Costa, Vanessa Giácomo, Malu Galli, Flavio Galvão, Ailton Graça, Viviane Araújo, Cris Vianna, entre outros.",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Novela"
+          },
+          "Subgenero": {
+            "Descricao": "Novela"
+          },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E3",
+              "Descricao": "Drogas"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Cora descobre segredo de José Alfredo e é ameaçada por ele",
+            "ResumoImprensa": "Cora descobre segredo de José Alfredo e é ameaçada por ele",
+            "Destaque": "Zé Alfredo ameaça Cora"
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": "https://gshow.globo.com/novelas/imperio/vem-por-ai/noticia/imperio-cora-descobre-segredo-de-jose-alfredo-e-e-ameacada-por-ele.ghtml",
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11281.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11099.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 65,
+          "Tipo": "Novela",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 4417,
+          "name": "Império",
+          "synopsis": null,
+          "category": "Novela",
+          "parental_guide": null,
+          "webmedia_program_id": 8154
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Império",
+          "synopsis": "‘Império’ traz a história de José Alfredo, o comendador. Um homem pobre que fez fortuna com pedras preciosas e tornou-se o dono de uma rede de joalherias.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": null,
+        "start_time": 1620265500,
+        "end_time": 1620272700,
+        "human_start_time": "01:45:00+00:00",
+        "human_end_time": "03:45:00+00:00",
+        "duration_in_minutes": 120,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": ".",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Eventual",
+          "Dias": {
+            "Seg": false,
+            "Ter": false,
+            "Qua": false,
+            "Qui": false,
+            "Sex": false,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Minha Mãe É Uma Peça 3",
+          "TituloPortugues": "Minha Mãe É Uma Peça 3",
+          "Classe": null,
+          "Programa": "Cinema Especial",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": "Inédito",
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasileira",
+          "Ano": 2019,
+          "Video": "HD",
+          "Diretor": null,
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Filme"
+          },
+          "Subgenero": {
+            "Descricao": "Filme"
+          },
+          "Classificacao": {
+            "Idade": "Indefinido",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": null,
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11280.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/419.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 120,
+          "Tipo": "Filme",
+          "ClosedCaption": false,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 755,
+          "name": "Cinema Especial - Minha Mãe é Uma Peça 3",
+          "synopsis": null,
+          "category": "Filme",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Cinema Especial - Minha Mãe é Uma Peça 3",
+          "synopsis": ".",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "HxbxWLmmRz",
+        "start_time": 1620272700,
+        "end_time": 1620275700,
+        "human_start_time": "03:45:00+00:00",
+        "human_end_time": "04:35:00+00:00",
+        "duration_in_minutes": 50,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Jornal da Globo",
+          "TituloPortugues": "Jornal da Globo",
+          "Classe": null,
+          "Programa": "Jornal da Globo",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Ali Kamel",
+          "AtorPrincipal": null,
+          "Elenco": null,
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Jornalismo"
+          },
+          "Subgenero": {
+            "Descricao": "Telejornais"
+          },
+          "Classificacao": {
+            "Idade": "Isento",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": null,
+          "Resumos": {
+            "Sinopse": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+            "ResumoImprensa": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+            "Destaque": null
+          },
+          "Idiomas": null,
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 50,
+          "Tipo": "Jornalismo",
+          "ClosedCaption": false,
+          "URLPrograma": "http://g1.globo.com/jornal-da-globo/"
+        },
+        "composite": null,
+        "program": {
+          "id": 87,
+          "name": "Jornal da Globo",
+          "synopsis": null,
+          "category": "Jornalismo",
+          "parental_guide": null,
+          "webmedia_program_id": 817
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Jornal da Globo",
+          "synopsis": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": "MGYtfFpVzF",
+        "start_time": 1620275700,
+        "end_time": 1620278100,
+        "human_start_time": "04:35:00+00:00",
+        "human_end_time": "05:15:00+00:00",
+        "duration_in_minutes": 40,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": false,
+            "Dom": false
+          },
+          "TituloOriginal": "Conversa com Bial",
+          "TituloPortugues": "Conversa com Bial",
+          "Classe": null,
+          "Programa": "Conversa com Bial",
+          "Complemento": null,
+          "Apresenta": null,
+          "Capitulo": "750",
+          "Inedito": null,
+          "DireitoCopia": "Livre",
+          "Pais": "Brasil",
+          "Ano": 2021,
+          "Video": "HD",
+          "Diretor": "Monica Almeida",
+          "AtorPrincipal": null,
+          "Elenco": "Pedro Bial,",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Variedade"
+          },
+          "Subgenero": {
+            "Descricao": "Outros"
+          },
+          "Classificacao": {
+            "Idade": "12",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": false
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E3",
+              "Descricao": "Drogas"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Programa em homenagem a Beth Carvalho, pelo aniversário de dois anos de sua morte, em 30 de abril de 2019, e de 75 anos de seu nascimento, em 5 de maio de 1946.",
+            "ResumoImprensa": "Programa em homenagem a Beth Carvalho, a eterna madrinha do samba, pelo aniversário de dois anos de sua morte, em 30 de abril de 2019, e de 75 anos de seu nascimento, em 5 de maio de 1946.",
+            "Destaque": "Beth Carvalho"
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": null,
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg",
+            "PosterURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Poster/9231.jpg",
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 40,
+          "Tipo": "Programa",
+          "ClosedCaption": false,
+          "URLPrograma": "http://gshow.globo.com/programas/conversa-com-bial/"
+        },
+        "composite": null,
+        "program": {
+          "id": 3100,
+          "name": "Conversa com Bial",
+          "synopsis": null,
+          "category": "Variedade",
+          "parental_guide": null,
+          "webmedia_program_id": 10086
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Conversa com Bial",
+          "synopsis": "Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      },
+      {
+        "webmedia_title_id": null,
+        "start_time": 1620278100,
+        "end_time": 1620284400,
+        "human_start_time": "05:15:00+00:00",
+        "human_end_time": "07:00:00+00:00",
+        "duration_in_minutes": 105,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "SiglaEmissora": "RJ",
+          "LogoEmissoraURL": null,
+          "Local": "false",
+          "DescricaoPrograma": "Sessão de filmes na madrugada",
+          "Temporada": 0,
+          "NomeTemporada": null,
+          "Periodicidade": "Diário",
+          "Dias": {
+            "Seg": true,
+            "Ter": true,
+            "Qua": true,
+            "Qui": true,
+            "Sex": true,
+            "Sab": true,
+            "Dom": true
+          },
+          "TituloOriginal": "Collateral Damage",
+          "TituloPortugues": "Efeito Colateral",
+          "Classe": "Ação",
+          "Programa": "Sessão Aventura",
+          "Complemento": "Efeito colateral",
+          "Apresenta": null,
+          "Capitulo": null,
+          "Inedito": null,
+          "DireitoCopia": "Nunca Copiar",
+          "Pais": "Americana",
+          "Ano": 2001,
+          "Video": "HD",
+          "Diretor": "Andrew Davis",
+          "AtorPrincipal": null,
+          "Elenco": "Arnold Schwarzenegger, Elias Koteas, Francesca Neri, Cliff Curtis, Miguel Sandoval, John Leguizamo",
+          "Dubladores": null,
+          "Genero": {
+            "Descricao": "Filme"
+          },
+          "Subgenero": {
+            "Descricao": "Filme"
+          },
+          "Classificacao": {
+            "Idade": "16",
+            "Conteudo": null,
+            "Sexo": false,
+            "Drogas": false,
+            "Violencia": true
+          },
+          "DescritoresConteudo": {
+            "Descritor": {
+              "Codigo": "E12",
+              "Descricao": "Violência"
+            }
+          },
+          "Resumos": {
+            "Sinopse": "Bombeiro perde esposa e filho em atentado a bomba. Como as investigações não chegam a lugar nenhum, decide resolver a questão sozinho.",
+            "ResumoImprensa": "O bombeiro Gordon Brewer perde sua esposa e seu filho em um atentado a bomba atribuído a Claudio \"The Wolf\" Perrini. Como as investigações oficiais parecem não chegam a lugar nenhum, Brewer decide resolver a questão sozinho. Ele começa a perseguir o terrorista, envolvendo-se num perigoso e complicado jogo que o leva até a Colômbia.\n",
+            "Destaque": null
+          },
+          "Idiomas": {
+            "Idioma": [
+              {
+                "Codigo": "por",
+                "Descricao": "Português"
+              }
+            ]
+          },
+          "Audios": {
+            "Audio": [
+              {
+                "Tipo": "AudioDescriptor"
+              }
+            ]
+          },
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10024.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11233.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Duracao": 105,
+          "Tipo": "Filme",
+          "ClosedCaption": true,
+          "URLPrograma": null
+        },
+        "composite": null,
+        "program": {
+          "id": 5366,
+          "name": "Sessão Aventura - Efeito Colateral",
+          "synopsis": null,
+          "category": "Filme",
+          "parental_guide": null,
+          "webmedia_program_id": null
+        },
+        "media": {
+          "webmedia_video_id": null,
+          "title": "Sessão Aventura - Efeito Colateral",
+          "synopsis": "Sessão de filmes na madrugada",
+          "content_type": null,
+          "exhibition_classifications": null,
+          "independent_production": null,
+          "national_content": null,
+          "production_year": null,
+          "qualified_content": null,
+          "directors": null,
+          "cast": null,
+          "exhibition_countries": null,
+          "genre": null,
+          "sub_genre": null,
+          "content_rating": null,
+          "content_rating_criteria": null,
+          "season_number": null,
+          "episode_number": null,
+          "next_exhibitions": null,
+          "commutations": null
+        },
+        "external_reference": null
+      }
+    ]
+  }
+}

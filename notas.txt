@@ -1,0 +1,38 @@
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@jbpaorasr004.corp.tvglobo.com.br:1521/PROJ1 XXTVG globodev13
+
+DriverName: oracle.jdbc.driver.OracleDriver
+URL: jdbc:oracle:thin:@jbpaorasr004.corp.tvglobo.com.br:1521/PROJ1
+Usuario: XXTVG
+Conexao Falhou. Mensagem: java.sql.SQLException: IO Error: The Network Adapter could not establish the connection
+
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=jbtaoapsr004.corp.tvglobo.com.br)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=PROJ1)(INSTANCE_NAME=PROJ1))) XXTVG globodev13
+
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@jbtaoapsr004.corp.tvglobo.com.br:1521/PROJ1 XXTVG globodev13
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@jbtaoapsr004.corp.tvglobo.com.br:1521/PROJ1 XXTVG globodev13
+
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@(DESCRIPTION=(FAILOVER=on)(CONNECT_TIMEOUT=5)(TRANSPORT_CONNECT_TIMEOUT=3)(RETRY_COUNT=3)(ADDRESS = (PROTOCOL = TCP)(HOST = jbfpw-scan.corp.tvglobo.com.br)(PORT = 1521))(ADDRESS = (PROTOCOL = TCP)(HOST = jbfpw-standby-scan.corp.tvglobo.com.br)(PORT = 1521))(CONNECT_DATA =(SERVER = DEDICATED)(SERVICE_NAME = JBFPWP01))) INTEGRACAO_FPWP INTEGRACAO_FPWP
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@jbfpw-scan.corp.tvglobo.com.br:1521/JBFPWP01  INTEGRACAO_FPWP satu#2019
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@jbfpw-scan.corp.tvglobo.com.br:1521/JBFPWP01  HSC_INT_FPW_API dmg2@#pCEBRN9@nQFSra5chaRT7R12
+
+
+jdbc:oracle:thin:HSC_INT_FPW_API/dmg2@#pCEBRN9@nQFSra5chaRT7R12@jbfpw-scan.corp.tvglobo.com.br:1521:JBFPWH01
+
+jdbc:oracle:thin:HSC_INT_FPW_API_TESTE/dmg2@#pCEBRN9@nQFSra5chaRT7R12@jbfpw-scan.corp.tvglobo.com.br:1521:JBFPWP01
+
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:HSC_INT_FPW_API_TESTE/dmg2@#pCEBRN9@nQFSra5chaRT7R12@jbfpw-scan.corp.tvglobo.com.br:1521:JBFPWP01  
+
+
+java -cp .;ojdbc5.jar OracleJDBCTest . jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lqpaxc-scan.br1.ocm.s1554303.oraclecloudatcustomer.com)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=sv_erpcloud.br1.ocm.s1554303.oraclecloudatcustomer.com)(FAILOVER_MODE=(TYPE=select)(METHOD=basic)))) ERP_FAT ErpFat#2 .
+
+
+  
+
+[15:06] Vitor Coriolano_INFOBASE
+
